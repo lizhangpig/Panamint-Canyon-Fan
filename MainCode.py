@@ -1,1 +1,1 @@
-#This code is for Panamint
+#This code is for Panamint Valley.
